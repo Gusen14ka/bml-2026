@@ -58,3 +58,4 @@
 - Установленные библиотеки (см. `requirements.txt`):
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn datasets
+```
